@@ -5,7 +5,7 @@ title: "*Modern Data Science with R*"
 <div class="row">
   <div class="col-sm-7">
 
-### [2nd edition (plus light edits and updates), published 2024](https://mdsr-book.github.io/mdsr3e)
+### [2nd edition (with light edits and changes), updated 2026](https://mdsr-book.github.io/mdsr3e)
 
 ### [2nd edition, published 2021](https://mdsr-book.github.io/mdsr2e)
 
