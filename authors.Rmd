@@ -9,7 +9,6 @@ title: "The Authors"
 
 
   
-  <a href="https://twitter.com/baumerben" class="twitter-follow-button" data-show-count="false">Follow @baumerben</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <div class="col-sm-4">
   <img src="https://www.smith.edu/sites/default/files/styles/content_faculty_profile_full_large/public/media/Faculty/ben_baumer_crop.jpg.webp?itok=_RP8Ryp8" width="240px">
@@ -37,7 +36,6 @@ title: "The Authors"
 
 [**Nicholas J. Horton**](https://www.amherst.edu/people/facstaff/nhorton) is Beitzel Professor of Technology and Society (Statistics and Data Science) at Amherst College. He is a Fellow of the ASA, the IMS, and the AAAS, served as co-chair of the National Academies Committee on Applied and Theoretical Statistics, chaired a National Academies Consensus Study Committee on K-12 data and computing, and has been the recipient of a number of national teaching awards, author of a series of books on statistical computing, and involved in data science curriculum efforts to help students "think with data".
 
-<a href="https://twitter.com/askdrstats" class="twitter-follow-button" data-show-count="false">Follow @askdrstats</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <div class="col-sm-4">
   <img src="https://wsgapps.aws.amherst.edu/directory-photo/image.php?id=1545596&original=1&image=1" width="240px">
